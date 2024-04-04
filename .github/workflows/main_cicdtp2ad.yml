@@ -43,7 +43,7 @@ jobs:
             release.zip
             !venv/
 
-      - name: Run tests
+      - name: Lancement tests
         run: python -m pytest -v
 
   deploy:
