@@ -3,7 +3,7 @@
 ## Elements requis :
 
 - Un répertoire Github en Public
-- Un compte Microsoft Azure avec de l'argent
+- Un compte Microsoft Azure crédité
 
 ## Repertoire Github :
 
